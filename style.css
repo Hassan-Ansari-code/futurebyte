@@ -7,3 +7,20 @@
     color: #a65eb8 !important;
     font-family: "poppins" !important;
 }
+
+button a{
+    text-decoration: none !important;
+    color: #26082a;
+}
+
+button:hover{
+    color: white !important;
+}
+
+.button a:hover{
+    color: rgb(0, 0, 0);
+}
+
+.button:hover{
+    background-color: white;
+}
